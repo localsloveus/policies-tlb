@@ -6,9 +6,9 @@
 
 We respect your privacy and have created this privacy policy to disclose our privacy practices and to inform you of the ways in which The Local Best collects, uses, safeguards and discloses information. This privacy policy applies to all sites we maintain and control, and explains our use of the information we receive and collect.
 
-By visiting our web site, you are accepting the practices described in this Privacy Notice, and your visit and any dispute over privacy is subject to this Policy and our Terms of Service, including limitations on damages, resolution of disputes, and application of the law of the state of South Dakota. Our business changes constantly, and our Privacy Notice and the Terms of Service will change also. Unless stated otherwise, the current Privacy Policy that we have adopted applies to all information that we have about you (referenced as PII below) and your account.
+By visiting our web site, you are accepting the practices described in this Privacy Notice, and your visit and any dispute over privacy is subject to this Policy and our [Terms of Service](https://thelocalbest.com/tos), including limitations on damages, resolution of disputes, and application of the law of the state of South Dakota. Our business changes constantly, and our Privacy Notice and the [Terms of Service](https://thelocalbest.com/tos) will change also. Unless stated otherwise, the current Privacy Policy that we have adopted applies to all information that we have about you (referenced as PII below) and your account.
 
-NOTICE: Click Here for important information about safe surfing from the Federal Trade Commission.
+NOTICE: [Click Here](http://www.bbb.org/us/article/ftc--site-seeing-on-the-internet-4596) for important information about safe surfing from the Federal Trade Commission.
 
 This policy was created to inform you of:
 
