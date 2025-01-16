@@ -2,7 +2,7 @@
 
 # THE LOCAL BEST PRIVACY POLICY
 
-*[View most recent policy](https://thelocalbest.com/privacy/)*
+*** [View most recent policy](https://thelocalbest.com/privacy/) ***
 
 We respect your privacy and have created this privacy policy to disclose our privacy practices and to inform you of the ways in which The Local Best collects, uses, safeguards and discloses information. This privacy policy applies to all sites we maintain and control, and explains our use of the information we receive and collect.
 
