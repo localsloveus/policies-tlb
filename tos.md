@@ -2,7 +2,7 @@
 
 # THE LOCAL BEST TERMS OF SERVICE
 
-*[View most recent terms of service]([https://thelocalbest.com/privacy/](https://thelocalbest.com/tos/))*
+*** [View most recent terms of service](https://thelocalbest.com/tos/) ***
 
 
 ***AGREEMENT.*** This Website is owned and operated by THE LOCAL BEST. The following terms and conditions shall apply to each User. If this Agreement does not answer Your questions, we invite You to email us at [info@thelocalbest.com](mailto:info@thelocalbest.com). Carefully review the Definitions near the end of the Agreement - those definitions are important and will help you understand this Agreement.
