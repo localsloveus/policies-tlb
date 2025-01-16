@@ -29,15 +29,15 @@ We maintain an e-mail list. We use our email list to keep in touch with our cust
 
 In the unlikely event The Local Best is sold, or substantially all of our assets are sold or acquired, PII would be transferred as part of the assets.
 
-We do not collect PII for anyone under 13. If you are under 13, you may not vote or participate in the use of our web site. In the event you become aware that we may have personal information pertaining to a child, the parent may send an e-mail to us at info@thelocalbest.com to review, change and/or delete such information as well as to refuse to allow any further collection or use of the child's information.
+We do not collect PII for anyone under 13. If you are under 13, you may not vote or participate in the use of our web site. In the event you become aware that we may have personal information pertaining to a child, the parent may send an e-mail to us at [info@thelocalbest.com](mailto:info@thelocalbest.com) to review, change and/or delete such information as well as to refuse to allow any further collection or use of the child's information.
 
 We also collect Aggregate Information ("AI" - like IP addresses, bandwidth utilization, web page requests, etc.) about site usage from our viewers. We use AI primarily for network management, maintenance, performance evaluation and security. This helps us maximize the quality of service we can offer our viewers and customers and improve the value of our site.
 
-*Information Management.* You may alter your PII by logging in to our web site or opt-out of receiving communications from us and our partners at any time. Subscribers to our e-mail list may modify or terminate their subscriptions in accordance with the instructions at the bottom of each communication that we send, or you may opt-out of all email communications by sending an email to optout@thelocalbest.com from the email address you wish not to receive communications from us or our partners. Removing your name from our email list will not delete your email address from your PII.
+*Information Management.* You may alter your PII by logging in to our web site or opt-out of receiving communications from us and our partners at any time. Subscribers to our e-mail list may modify or terminate their subscriptions in accordance with the instructions at the bottom of each communication that we send, or you may opt-out of all email communications by sending an email to [optout@thelocalbest.com](mailto:optout@thelocalbest.com) from the email address you wish not to receive communications from us or our partners. Removing your name from our email list will not delete your email address from your PII.
 
 *Information Retention.* We maintain PII in our regular business records as long as necessary for our business purposes. Unless we are required by legal process to disclose this information, we will destroy it once it is no longer necessary for our business purposes.
 
-*Data Deletion.* If you would like your data deleted, submit a contact us form (link), select "Other Reason" from the drop-down menu and in the message to us indicate you want your data deleted.
+*Data Deletion.* If you would like your data deleted, submit a contact us form ([link](https://thelocalbest.com/contact-us/?market=sioux-falls)) while signed in, select "Other Reason" from the drop-down menu and in the message to us indicate you want your data deleted.
 
 *Security.* We have security measures and procedures in place to safeguard your PII and attempt to protect it from loss, misuse, alteration or unauthorized access. And although we strive to minimize our exposure to system and network compromise, we cannot guarantee that our security measures will prevent third party "hackers" or other unauthorized persons from illegally or improperly obtaining this information.
 
@@ -46,7 +46,7 @@ You also play an important role in protecting your PII. We encourage you to pass
 *Cookies.* Cookies are small data files that may be stored on your computer or device when you access a website. We use cookies to offer customized services to you, and may, from time to time use pixel tags to help us manage our online advertising, analyze and measure the effectiveness of online advertising campaigns, and track general usage patterns of visitors to our web site. These files do not collect PII about you. Rather, they operate by identifying your browser, saving information regarding your use of a website, and help us provide you with personalized services.
 
 Third party advertisements displayed on the site may also contain cookies. We do not and cannot control these advertiser cookies; viewers should check the privacy policy of the advertiser to see whether and how it uses cookies. You can set your browser to disable cookies, but by doing so, you may not be able to enjoy the personalized features offered by our website. If you would like more information about this practice and your choices for dealing with unwanted cookies, please visit the following website:
-http://www.networkadvertising.org/optout_nonppii.asp.
+[http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
 
 *Policy Changes.* If we change our information collection/use practices or other privacy aspects, we will post those changes on this privacy statement. Please check [this page](https://thelocalbest.com/privacy/) often for changes that may occur from time to time. The Local Best is owned and operated by Locals Love Us, LLC.
 
